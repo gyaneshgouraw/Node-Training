@@ -1,7 +1,7 @@
 
 day1
 ---------
-1)repl
+1)repll
 2)events
 3)1 thread
 4)
@@ -29,3 +29,7 @@ HTTP Server 2
 Req & Response
 Middleware - Connect
 Hands-on exercises
+----------------------------------------
+1)git init
+2)git add .
+3)git commit -m 'initial project version'
