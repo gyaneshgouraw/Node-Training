@@ -33,3 +33,6 @@ Hands-on exercises
 1)git init
 2)git add .
 3)git commit -m 'initial project version'
+
+for again making changes and commiting
+4//git commit -am "Add existing file"
