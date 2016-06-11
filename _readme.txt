@@ -40,3 +40,9 @@ for again making changes and commiting
 ----------------------------------------
 
 day3
+
+sails.js
+mocha
+mocha -R json test.js
+mocha _R landing test.js
+ mocha tests --recursive --watch
