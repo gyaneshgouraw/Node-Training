@@ -37,6 +37,8 @@ Hands-on exerciser
 for again making changes and commiting
 4//git commit -am "Add existing file"
 
+5)5//git push origin your-branch
+
 ----------------------------------------
 
 day3
