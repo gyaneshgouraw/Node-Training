@@ -28,7 +28,7 @@ TCP server
 HTTP Server 2
 Req & Response
 Middleware - Connect
-Hands-on exercises
+Hands-on exerciser
 ----------------------------------------
 1)git init
 2)git add .
@@ -36,3 +36,7 @@ Hands-on exercises
 
 for again making changes and commiting
 4//git commit -am "Add existing file"
+
+----------------------------------------
+
+day3
